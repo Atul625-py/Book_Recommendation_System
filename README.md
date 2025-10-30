@@ -23,9 +23,9 @@ The system intelligently recommends books based on user interaction sequences an
 
 | Role | Name | Roll Number | GitHub ID |
 |------|------|--------------|-----------|
-| ⭐ **Team Leader & ML Analyst (Backend)** | **Atul Kumar Pandey** | 23074006 | [Atul625-py](https://github.com/Atul625-py) |
-| 🤝 **Frontend & Backend Developer** | **Chukka Chamantej** | 23074028 | [Chamantej](https://github.com/Chamantej) |
-| 🎨 **Frontend & Backend Developer** | **Purushottam Lal** | 23075061 | [Purushottam620xyz](https://github.com/Purushottam620xyz) |
+| ⭐ **Team Leader & ML Analyst & Backend Developer** | **Atul Kumar Pandey** | 23074006 | [Atul625-py](https://github.com/Atul625-py) |
+| 🤝 **Frontend Developer** | **Chukka Chamantej** | 23074028 | [Chukkachaman](https://github.com/Chukkachaman) |
+| 🎨 **Frontend Developer** | **Purushottam Lal** | 23075061 | [purushottam62](https://github.com/purushottam62) |
 
 ## 📈 Model Summary (STAMP)
 
